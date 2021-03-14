@@ -349,14 +349,6 @@ const imageSeed = [
   },
   {
     type: "exterior",
-    description: "California Strip Mall",
-    image:
-      "https://uca375eef29a916e791113ff700e.previews.dropboxusercontent.com/p/thumb/ABGKLPqq_VSYTl0s10XdDmX97ky9E_JuJP5eT1_A733DFnyzQQNCVJKDw4e0PabLHwkIcqNfystan6BLVRnSE0AGTyIdMm9sxN4sKDrIU6ihLJjaJIaLdj8xF-mOeDI2WtyVixdGCM616yesCmi3rEA6w2Vnp9N5AbapgUr6BOjUJVUHYIdo78v-PkF4yt37d4TjoP0UBtCVp_oE2YXMmuCSVcu0eJRHyujnDG6LAtPJNnpcwMiz9bcD0ItrBHw7KNDIqPV6PyvX-M6wbi4XwPf2zGCYA3Wro6thoMZo7Nml6wZLRt27Zo5HGQebaJF_V4Kkcqf6IxqjkIvxOQADBEbeQy3hZTgP6klAnMgaOyD9Lg/p.jpeg?fv_content=true&size_mode=5",
-
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
     description: "California Strip Mall From Above",
     image:
       "https://uc3dfd0c877065342d33644acaa7.previews.dropboxusercontent.com/p/thumb/ABF534QaqnmuUPBjxTZdcv8dOrUeoMcJTiByL_Y1xTU_9p2UtcTwF9i3miBV9JeKSrn1EEmvzP1RH5I3kcqCz9vXrrlwy_tFZ7Tiiqdgt8AwWgUFNJuomH-bcS9pEFZRWRAnxP66ZyKS2CEqZEpfyzMVGIMgeFAvjtSRDBGKKGgAlTQtKOpAA7VDldItR8_Ofdh5om9jaLcXex-XdxBBABQuYtghA7PvJJmljwXGKNlFwIGGylsTRLaZMTParV22uQ2PJrXXZPDmgayOq5-n5wKB7xL6sJW-dBhMLiAQCgvO5hVir9XWsAtbm57j1-AsYGHSmcD2Y6rp1KncQNIYIx3cSn29sxCW_vhEJxmHHSK3rhn-KjrgjTmnLE8T1eyivq9S6iW6OF-yOdptcHHebnB9qV9Y6_7yCG2asuGxga6szg/p.jpeg?fv_content=true&size_mode=5",
@@ -383,15 +375,7 @@ const imageSeed = [
     type: "exterior",
     description: "Building and Parking Lot",
     image:
-      "https://uc54dcd02096709d3e56d54b2ec3.previews.dropboxusercontent.com/p/thumb/ABHDLy786phXDdOslG6cwQ97cnb2qEes9DkvjQMFgx9Kc6BPyGobQFout_Fo5Wr5jYLtIAF9RhtgHAd9DR2XVTdTQqpeQqHgi5Vtrx_tD4m-_KNDOzsmRJVZ0hR9UviSR3_isnhRWptU8kZoGB1kFD78axgY4uMjhbvokmBrT-1iHk_NydQlxWrGpoNSOChNuh6TrXxfPf_BG-ggSVq0Ecx7w7PvUTgnhV7SL97596yXARrq3nWDl6K8kkDUOFzt9fMy9u2lH0kE2gytsJR0kWq6mVEoABmuva8FXqnZmPLDv2KcbyeJU0GIy6UyXpWO2w4pJqQryJMoRPJF5cr7u5Hf9Hg1DaiIz4bx91W8Y7PNCA/p.jpeg?fv_content=true&size_mode=5",
-
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Building For Sale",
-    image:
-      "https://uc81fcc324522f30703b5286fc38.previews.dropboxusercontent.com/p/thumb/ABFjctfO0WKjjztwcTy1GMhjDfju5Dr79srrBzVnuE90oER0rUDqekiKUNCv7CtnoLuBKOoStsO6vPfax92ZxYW-X2QGlKJ3z2XYiUJqb_JA1I4sCrpqSjHq2JLjPR3Mf27HA3At4gpNHlAxbBpiSq9Q2NlJYwsBTWi2iZyZdWcxfOq3i0zFHomMlUobmk3tRFBCYFZxBcFWBlnehpHqoxk2IuZ16uX-8h0rhWIDNUjpJmLo9BAq9vh9w5sbCFsQibZwhmV88kqRQjfduQuCLzSyf840H74DJGKoR2sQT9LlaFkCEUyMS26d2k8Ek3Qg-mu9zY_RmXztEM5v0RdJbcLW4uPD4yxkewFLAJLXpZR_fm7_nnz4il4OCoqGGeSUT5Ht_WEdFuRhN_n1TQfpK5dACueoyPavzjF-Yq1FsjQjew/p.jpeg?fv_content=true&size_mode=5",
+      "https://uc3ac2fde9035338bdb5a45ad319.previews.dropboxusercontent.com/p/thumb/ABE36BPBqPc_yp4TvFLMHn9eNXI3xMy-Vv6vdk8TqSxTLDTo3VJAXeILfQ7I93wchdWu_GS6_dZTgu414yeRZZTg8_6ft7rHZ51k-eegahxT4s4kTzYriG6swgKYeTlHy5UsM-OM4kMZpZ-FRXREhZfHFukCW6sBzt7jnR40Qh9yJFYg2Efs1XOROT-wSeCXCx0aHOKdwn19RKV6eqLSr-pbjpYCl7DQyJAVBfrnxvWiLPTTca5rKW5c0BIPh2EE6QvFy5xFiqM0O8Z4Uhk4SnTpB6gin-ABmeyUtxEMpK7WOdLW5b5pOu-uxohcN6wJJUijbDItr61k_S6qTCsCOukaK2ban7YnLI9oWw24KkVABQ/p.jpeg?fv_content=true&size_mode=5",
 
     date: new Date(Date.now()),
   },
@@ -408,6 +392,190 @@ const imageSeed = [
     description: "Workspace Available",
     image:
       "https://ucc873d806614cbfe6644b6401f9.previews.dropboxusercontent.com/p/thumb/ABE0kMrsQ-c7u2FxTDOdvIB4j9f-OronDr_OEk3xWHRfyGG-ZVu0n24rt8CpHxc-PhorcM46NHX3PM1TYM-prTC3lShQW2YkTddRnBoWTmUOBt6SlEpiGyCQTO-skqdarGrTPGoihNa5rHPdFh_6teEOiRmTj4PR0dTXNiFTbLz4rDZ_fLhJzXgyzKXRQxIBNNQnIRq3UC4QiNtmuiuEx4ypxQEzl-XcqBY2KzYgpS9TDO6FmVPmUOp4xVhA4U2fJL1Xki4DqD12bNPEgOhBefH6wgzDUbVBj9S4potwX3ufP-OMQCBd8m_M8G6djmLZwWZO8T_dENKPzz-yzdKlT_uvOBcJKzBLOnYkW-0b9O1wgfDYx3I3KdDCJuVfDoH2QYe1oXlIzpHbe-aio5VnI2yo5i-4BBLPRt5RD3h3GJud0w/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Brick Facade",
+    image:
+      "https://ucb246f0351c2cc0657bc4542495.previews.dropboxusercontent.com/p/thumb/ABEZnqyltrS3h7Dz0-tmxwmkgBfIWYNBZb0ugTD0sKsjI4y8fM-3l6plVJb7TKrs6zJYPxipp4Zzk6RkEjNzotiwiLqXEISdDWT2ARcKQlxmTVov01MNI2FK1j4Tj5su3USG7CYi3bwMdKtqQWsyV7r8d8EFKp_EX_CMysKwa11RDNzT8Y-dZ5MqU--ZfqwDzRxPNEKYFbT2iWU-gSHLoprtaJK0NiWPPpDj4h57y37Znk9z2a9aaW2zacJ51U5YyorG_iofWOsGsKOfRjx6r7FNdjnU3HOmLsj9QTDOi9PoZWF9zpKuPJNZyhh5AvFEdzRCGT0REK9tAyc4O1GF3cltztTzJFtyz32bSYhkE-lBWlB38cpwU21J2S8bUolG1HrEOV_mDZmbUld8UfSNQwtsQ7ETORhmz8LqlaB3aQmCEg/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Brick Building From Above",
+    image:
+      "https://uc33781e11cb45036454eb7b0b4c.previews.dropboxusercontent.com/p/thumb/ABGrTVTLk9mVhjBxN10uCIRTVebg9xF5SNF8ClDQErHtnsZdX3zWbwdXPOxdWqpOJEps6YmtdduqN79HM1UqrW9vjrt_Za4L1SUlPEpXFi3hUrnj324WQmBhWWfINwjmpQoUkH2HAH6ekwGvVuL0OG2n84f1wokLJMmjlLLpHVaC2rkXBweRd6cr9CvjIhC6UWtutX68ABUkeAnvN_Ru2Hd3hXXO3eXxWakILt4ZNUj7l2KFJ2C8T5K8vsZJZqhSfBTF7uaiz99A6-fDGoKBpr6F1OF_lqHVAAy5bg9lUCdbzzhuLypRPlVf65ss78wwZh83lX9Wgvc4bti5oHTj-yuzFfX3liC2duTVQgbS1FhRG0Ii0-bgcHq3STPmwucg7q59s2QVrivWBStu9CWQ3quUu_C8jv0pAuMAjx-itEIuZw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Brick Building Birds",
+    image:
+      "https://uc6c7186310964e7f0a90e3620e0.previews.dropboxusercontent.com/p/thumb/ABG4gEZY6eZUPG8hiIId81E7lEYRT1hsOQSbokyt3LfzLn9L7nIge60AzSClBY7O4nPA_DwM2hmqsOasRNO9_2-HlV4rSD2RtGG8TWOAIRi6G-sffletgP_3zHEnOsNPYdijLI2-R2kM8s8MXFHOhIUKPY-f2bkxQde1J0HlHK2OgFNP-qMAJSILkJr1LV_8x-NnmcCKcH3arWlx8k3LzAVwYGuMoU2TGBN5RFk7O60hIpctVUc8MNV21xe6uemVpTzQ_zFeLvFoVcx4LPcjBq5D_5AithWYjE9aLOf1jxdTbcUyZBhJERu_UV6eZt1_zaao_-NDty2Jcu5-m_VBIgiUvtS4XahXz85YBpDRhYIO0ObSpwffQ1S-kZvzDRoKWB2Wvmnz5IT2PrgC4xLCk-UoaEvGl1UgK2NlGGnk0xrqMw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Brick Building Landscape",
+    image:
+      "https://uc6f87c10d8b8cf59c5663364bee.previews.dropboxusercontent.com/p/thumb/ABErI7KLQ_MYwfKBvE8YHtMzMasxMZp6hsDgYbQusC1BRIfzraikeh_ePd09F94vT7XgmbA6CF4rpjCKncqX5OkDFy-e4T9xyirpevh1H0lELMTIJ3QYL8FnsGkpoJJk50WbGIX0ims3gPIvoPXaHC8UWr0R_y3iIspI-EX55Sn590d-fCiLiO7-uPsMW2FVHzH-x3l2zH5piXXr6tCvAdNPfjlO9HzBo5EogPpwqPxeAE2H_-nuCSAoiBUQkhH5I8Ml8BCbMbPcwuB2DVPdh-4f5ozroNsHCxZd01kIsPKotXI2zXHKGgpbZOAtSQL9hPs3RIS0uPSFF8ly6I0Y_5_PVoQGfvtQoCnQlYQyE4F2DhuGGOLJ5T7n56H7AdzcNynskazIZgSlzLjjC2AYKPFRVTYHGEh1DyCAwPajM2QrCA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Commercial Building",
+    image:
+      "https://ucac9d906208832fb2051aaa741d.previews.dropboxusercontent.com/p/thumb/ABGMYeejzmx5ntJB1r7JTEbHuZmayyYDjfJIQd7AB1CQ_0a4OWk17CyNLTdmHXuDPqMrY0476MMF2cJUOztY3y-6ROpxzRqsxry1a6tz6i3DrYONGgOL9LzmAywNFKs30firMX6JCwHfAXIRR2izXkMH7rvOTFraRg4sBjB362FIlb5TPTcy6gsN0Ey5bkYJoC5Gd4QIDc1BhODQKbxhZn2iVaaKDFS745TLqr03DLdDDO1T9XiKp5ZsX73fbUHU8TD8lqcvSgFzIZxQwKPmlwe_l0UitpTnq3fidejVUpbqf1yk4Mr_nveVFS3oQtvYuM994rH9bsEIdyiQ3BocjFgogUoySqctf9ppWelJrvKkRw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Commercial Building From Above",
+    image:
+      "https://uc4e8a8820c6ce42404732ba112a.previews.dropboxusercontent.com/p/thumb/ABF6Pjpsvt54N32iY4Gfjffz1SQmKEwBaYJYfQskOV5lfd4besFft7Ho4NWtgq7f1JDHEgioiVgY4wrgEg0F1mEJBRXj0P6avMTWpa8O768a7IkTh-E6zfqmJH6CajHrtVlahtopYbgecsyfhGftzQH15W4u43CUEsVky00eYR1LYLdV1Zku8eDo2jtE03_t0Pxjby8h3ujTTYQrGJ3BWLdGZlim5QK2GZrn1IrfowlSabvk2RMXQTdl8OGiZF8wdUQ3UOlEtL2YErSDYz_Mv66uaj_EaujJ6qDSoHpJgcS5XHf_MY_-EFdvzjBmAoGcm5BJLxb4bmT3INyVmPSumosACAoOjd93tM4xSrTIr9ashGNiX6AnFPH-Uzis3iiz_W0RuIvTwRQ2xFiCfGSF7r8b6wpiAAWXP7DdIhvnt5CdWg/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Commercial Building Backside",
+    image:
+      "https://uc9b98ebeff86111e755ab116153.previews.dropboxusercontent.com/p/thumb/ABHBlStAFIhbmXtt2Ad0X1QsO91BBoAkINpmXnHPFiKdMMSfSb_ns7_eBgLL5iKeGg8Jk6taSZ0CN0ZRpRnj-ln7M49Ya7RGoHAGTcKSg_jcwMfS1xQlPVYVuoeBBbHGo1ZavHm2ziAaZFu1NW5Q9Jc4_RJ19c1cO0-SGhvIr6oor65DqSwyBAWxDpHeUn9nUUG6wfF6MvNnq0TYMGkavuR9KsBTPjBqriqiXQCdN6sEw3P8Ld2M71GRFEDcQ-f971h3Rpsb0M37wA9K0Qrh82B5w8LFIYcvUXaUD69bl4gIb2Xcv0TSLnat8OqnXhWKXJ0pfDrTpsQjsVyUcV3KO_gwEc3N3GVs3Xqan9AO71-Lqw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Strip Mall From Above",
+    image:
+      "https://uc24d18bfb477d7fa72d629a6d9c.previews.dropboxusercontent.com/p/thumb/ABE355MBux_73CJau8EW4AwTEjXui7mMsbSQ6jA6c4fH4gmDMqdMKg2COGyC-J01PydsQxK1UgbnEp3AsflFQovCkjqxhWnXQz365Lu37G87ohhK8WBVlvQ3kU40NMqXwZb4sIRfYgD9VaaEdyejcWR2DNUkb4zmggDa8gIN5ePDFgRBRxxvLz_L1hv-XimorD5926H9c2BVxmj2C8_J5D9n0pmIYsxD87gLIxwAjwLM_lZBXNRJBpS7Tqe-lmZciKpegHnNEJPVpCTJZrM0D2defbWax2VPrF0ybbDLnMWZkizgKEdUaIbAdK8HtLywjuT811ClReflyvat5SAqcCAH_FZ_lHtFgml3L-cb6-b6L4E-KLHOFRIbUwXdGmufDYTp2IapXqxzCgB1motJxo8MH7hOXd--uj56ZT254rlRMg/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Strip Mall Rooftop",
+    image:
+      "https://ucfe4107b7191c20189cab855de3.previews.dropboxusercontent.com/p/thumb/ABF5LunFYVvLBXcU4iV2ZAmS9WkxvFHlSGsv1C4YAcjYsZC0hzSh-feSl1rgv_pjKBpkeZoPDLcj-NMnTSxmdhxCvaoic0q4qd1y2nyjhDohDijKCRIyiDxaoUT0AOwgf4F5wYeLr6bc-dh9vpnrpOimjtuvs7iD8zATU2Gupnx2X10OA3RmUE39HhXaFKpXULRYporjW6ZBKGG6ZeTuvf2DL8ZeHAUEZigZZ9aLAmXejnzyebm72TPDcLjmthhO3N3_hMLVW9szMIdn7WSQapnrlCFvPgNwgOoPfV8blBkuPvKEqq9F3M8yVVnlyGmvbtJEL9miTvMj1wF1JZ4ymU_LIw6mitEgwy0ufKdQWRgjpLrz3UhZxF_zcD8qBUkPtI623_AfMPMCjiEg39aKhE70lVaDvBCJ-P8DP0eQTM7iUA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Downtown LA Building",
+    image:
+      "https://uc6b7d8ae04e04f668d706991505.previews.dropboxusercontent.com/p/thumb/ABF3wEIE36rYFrCdOQ7Fwq16RnaXB8_0t0em_USqijNSVLac0SalY_YoQnmsjeWGxzeXhmNnkj0LBncUfnLV2SjfSBHY9YOzhhpBKDxlrKv3HTOGLQh9xLp2oUg11Iz4Yq_tLAghR8u67KcZbV7vcACcI5NBh0lygp81HtH4okdUdyakTGJ9hhRrtZPqnVzHZYGQXG8de_SHzn7N8KLW2cPfHETOtXnUhB43-0Ed_-KfZ56wkfE2R5lJa2qMp51ba8NRh6ltXt_7QvDj_dy3w38m4P1zbl_V6jmsmX0yGbBirReFWvLsjotMB6oiCXl9bBpxB5mn4smqjuMbFnjFOWXtrB7guPpK_o1sISmaGKhOSt_foURUqStiZ3pEJyJrat-8vgVmwBGCVjWQruCwTKRE6PJ_3DzKYZQGCQiHjlmKGg/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Downtown LA Building Above Profile",
+    image:
+      "https://uc082962616600a3e04f45efbd78.previews.dropboxusercontent.com/p/thumb/ABEX6IOYnyn8RcvzC9PB1w9moukjYNNZhalABXHVyiDZZ0_YwQGXHA9HuCHkYjr_riUkUyrTKNgZdbrVSaccUZo8-P2l9HrkPv8XTA1ldQpyxa20-KE9SPivk8spgDJv8hfI63IPTRrN_EH1apQoBTZl0T6GvKDF-anyoAq2mrMI7bTtrS78qjlCA1evbSYQbGaTny9h_9yBqEph0SGNBzKYVy-vIE7pXkhHPWKyTnJV0NztYgShDJNjaSGhyP9Cnp3H7xy7PIpqsvOYxQEgBl2M3rZ2HDLk99romPfKr3RXhyKhEjVpfa_K2EaVYMp_6LfvcoSCLPmb1ZbDVrH-WiLXKP6lO-EthRT1Ai2bVwWTKnhPUU0fbRNEpJazOlYGmmzMSxTTCY3p5kWmSYPq7DF-5DE1vGdL97NOAkpzeyIn5A/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Downtown LA Building Birds Eye",
+    image:
+      "https://uccf00d159b6c6fbdd863acae0d4.previews.dropboxusercontent.com/p/thumb/ABHn3cxCXP_c4qmjyT-J5SvjnDT7XyffES-eDy0g591fJMAMDCfnmAqF4PUdaKguBJf3nmWP_IF-Jwsp7SMr6H4G08oNDKnfiCFHoConuQRl6EGxBmHhTWkwLJecD_jXKHyDUI7oUQsU33GHfvrLY9efdilyCNiK3SJzAORo33vCW_fMJPySAJQz6_Ob3uGizGmHTwqwWjemChfuErEKy5IgJwTRl_iC3J2NePD4DM9ppc4CfWsJpzikptxb19NCsNLvE2raqaMiGq5yDUzgebgcUcTj9_ZcbMUOhzf0YK-mBuzT_ZV-lZ_rw7LtSeHVBV8Te__RocB1CdvJuGkJH_68tLbbgigvbXKXktoaooY_M0mIuQPaXm_KvkzkPF2ru4gm7R68dpO1HjYX1xk3lNT380G2BbOTx3Us6pfe1S-tWQ/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Kitchen",
+    image:
+      "https://ucece00edd49c9c262008570cfbc.previews.dropboxusercontent.com/p/thumb/ABH5pGurD_QpuB4PG7TVEr4grCr-AV8_83Ep7lHQOtZrjfAyrJM6bCDDLIN8foAZGPfh_80-k0UEU9zoDo69j3Zc3p1LdHpKgzdNMpl57P5ztiGbxdP1Sft442wcSnXpsqTKUxHApiQsYRPgDj9euMNf3X1olI4pav-Pua5d6J5ipBqFhcDHMeowP9YecLQp6yL_SCHpDDAWTe0DaFdS8xDwswECOeUprAKfoADeZ2ZVN4XZNxY4N0MBzJRmUN8_0MsPJTHbrPS-2XIvJHl-NMrhgoCm1LoYnCFpI5ItmZ4NVnNX1_9fUdpG6ALWXb5JUmXsOQPgmG7wWQGPzR6pz8DBrxj5lXY7Vguw_Y1tipOCIA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Bathroom",
+    image:
+      "https://uc3995f42b73fcd2814df2a4a90b.previews.dropboxusercontent.com/p/thumb/ABF9QFzSpi7_EGYGwyM3zua8qqJPFcTgzmrFTRGj_UTa3x-hiNF3vMoaqNZ2JK9R6KGjYYvGqf67l0F28-32upfw915602c66x54cKZ4eJeCBQBsCdnvqk5S1qW47l5V65J3g7xeNd0mw04J8Ow8qQDAziwHZyzVdaCZe45Jh5dY_y7DPYxCyDEKYlf2v-KhHHLAcGXrEesfb4siHbG3j9Go7PfMpDKpZdlgcpae_P-Jj3kTAStCPq_DDF6jUzmtPbB1Nh5aN4lGailjc5iofDLLjWj8YYyhtsMGms0MEQes0fNVwCjCTE-5iTLQkM0S9S0KDmjbsBxh9ehPjxxX7xbaPmjMQjxn-6VHQ5v2TasrFA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Apartment Complex Terrace View",
+    image:
+      "https://uc3995f42b73fcd2814df2a4a90b.previews.dropboxusercontent.com/p/thumb/ABF9QFzSpi7_EGYGwyM3zua8qqJPFcTgzmrFTRGj_UTa3x-hiNF3vMoaqNZ2JK9R6KGjYYvGqf67l0F28-32upfw915602c66x54cKZ4eJeCBQBsCdnvqk5S1qW47l5V65J3g7xeNd0mw04J8Ow8qQDAziwHZyzVdaCZe45Jh5dY_y7DPYxCyDEKYlf2v-KhHHLAcGXrEesfb4siHbG3j9Go7PfMpDKpZdlgcpae_P-Jj3kTAStCPq_DDF6jUzmtPbB1Nh5aN4lGailjc5iofDLLjWj8YYyhtsMGms0MEQes0fNVwCjCTE-5iTLQkM0S9S0KDmjbsBxh9ehPjxxX7xbaPmjMQjxn-6VHQ5v2TasrFA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Empty Apartment Room",
+    image:
+      "https://uc484bfe4bd773f1e8ca98c63279.previews.dropboxusercontent.com/p/thumb/ABEfFoWF6pPxaykpBpsVbFYR0jLdYPW9paOutIXbFHIChbQelz5vTfFyARCka0pqkKm4U_Ck_KaOrdgxzy773Gv1bpTewigsKZEPdAT3WzIOmhLlCbgess6nOhuIFvdJzHq1RbxENbVVCPNcr-rIGWwMC0-lvP4r3Z3CS3-niVh6Cie92YHeGVK7Ygxj3L6iJ61kC5Szuw-Uqu6i-hFkCzBSO0GM7VZwfFQE98WXarkqoc3I3SmerjA2znKbEioJTIlk_IpkApNSd-aaxmsvxPYcMFtg-AUkLGQjO9jGqxXML6OKVhRv3qDhEHI31nOXlMGrMXA6xPTYlYa255wpUMHmS9vDHO2yTLv1q_ChF_PDNw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Condo Swimming Pool",
+    image:
+      "https://uc5d5c9d015c24815f6bbaeb9ac4.previews.dropboxusercontent.com/p/thumb/ABEkWstK1i5J2zE3lyXvDIdwJasJ0LMeeeQu0igOuD5vbTH4kcZ9v2spHVDXLwEoW-XF0xOae4j67gQb0i_a2YbwaVyApcitgu4KxKLe-2-0VUlE8culQZqwllc1bir-dWrCAC_XLhXQY4HZQDxsTD6lSvAsaDF8V9PWtIDiN_nXyk9hqvnnD2n29FXfauRe4WN0UD2YzdaMt4MInVAi0XE03ZfMDUlCP9vKWwnUBGD9Y0IYNqX0ey6kGGSO-TayHsW2voKte_nUsK5bcaH2pMe7vpTZXzUVwx-7fXNIQBTWvQbjmPgHH4kvK-eTI7NPvsaAMG8KVUMmRojItYh45If1tDr6qSySa03J18a0r8mJkA/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "exterior",
+    description: "Private Swimming Pool",
+    image:
+      "https://ucc2141677006124fa3fae9af5a0.previews.dropboxusercontent.com/p/thumb/ABGAbgo_Kol9gpyCACKanI_cUy5HLbSUrkeiAyuiTJ8mWzCUU2b3FwL4jQzmX_tJkh8nqIjLe52vFGoNUMhPXgd1yCWtfdld0srVCC3ItEvdzsCo6T9-LYp-EaNIpSMTJZ-KNKgBnSqo-zgbgnDKlnJHNjJ_SAmC9aYuuWIDWtan_wZV8Bs_t0SBiSbG5RNx2tjiwMTNbpj1fHDkveji8Cmw58etblp206EUoq3KrzSp5HeM06w6hks9Pb26gRH1ACkb3_qB6aRQqCU_u3brSA-7uOJuOJcxoRj-ep9F834UPziOpH_izh1_jjPtsxo8xaTOQbjfp4mfAznSjn4_nZo03konz2QWstyjBD4w-TxyCQ/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Sunny Kitchen",
+    image:
+      "https://uc57abbea507e1948e4c3ba0522a.previews.dropboxusercontent.com/p/thumb/ABFIeAR81ix9GBLaiqFHksJIpcW4k4CdM9m5a4RuZjAwHk5rMDwmYWXgnk3Ugy9WSgIrgmSsodXgxeHb2zW1gn020foCBK8hcdMianzyyayZVbaRoTIIcOC5yLwSSHJsANrrzaN3aHbUfwqirZ3O4a0fLq2O9CUuovFjN_E6LM0bnc1GGFGAs3qu2WCHQLmLW3NfrWJjtFRvo8BFiwWNWJW_-o7uPccK3I1aJVzZFVylH1YPiILaQfG20WC2t62ejsamdDvSo-AUt3kIKXrIylOD-Rz1ZlDg-Tbxshgbg7QiW0wGawb-x2JCk3Tb8yPlTQi6jcBzym9J-WSOPqihzqWxewb1echjIMrnFgIdFZ9Zww/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Living Room into Kitchen",
+    image:
+      "https://uc319636f601264b594991426109.previews.dropboxusercontent.com/p/thumb/ABF6AxH2guSplsdcdS3Xcz5cLNsDfNXsKiBpMCX-vDzuU8lK6dolrLZSB65DSMqaPuDlqgNfMb3B2qWjY3ulrsQO43d331jECbr2twFxpjMkn25j1HBDMQon46u2kxSoq_92awjgtVlLywzr_Q-1IyEeOl9p43QRsh84qFdFrkhOa43G0llLP740XwEYYntAd04233s20w-8kyMl-cqFo6yRH3CKLHMOZoHFIb1OXMmDeQml2XKfzdjdSfwWodIcEj-x8nCpznuTKlbPcMb2GF7KpXBdGY0SIj4W4DAgLtNUXVrWRcC3BdBGIuRKq2cZNvEHTm-jpMbVn559sdEbO_gQ3K8nUGyb4W5DG2JzOKJmEQ/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: "Children's Bedroom",
+    image:
+      "https://uc15a58b019cabdecb6e33cacaee.previews.dropboxusercontent.com/p/thumb/ABF1y5Nq4Z80zr2I7xKpVJQHuh1wGBfAKTV-bKaJ9mM-Q88lRnNB951hWyp1B-Lrq9O4ZDMUiHIUFp0cPl92vI4D3XHPjWS_zfhRZa3hravVzcdepIYKPWh1plywYBuBeIYSpWfQh8_zNvndVSCakaOT5pz_M_Wknevk5MqTw6D-hmGlC08_wlcUmwhG76qN6FYgZaM0VMj4V7D3VDN9bR6oc-x853bSU42taZd094vLIgr8vghOKJuI_GlZW6egHH2EEM2r2wv23fiDSrTDA3nRCk2BU8U79bu8N6s4BndUNXPzEO6-B8ju-O08VyYPeKrDCvVizMEmMX-z1TTFLBkVCYKETOmLKw8QozHw43ZwWg/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: " Bedroom",
+    image:
+      "https://uc3b296afec610805ee14e78392f.previews.dropboxusercontent.com/p/thumb/ABEJvge38dk-KuaaQRK96LeR-VrFqVxqmWrxYeQn42BmY0dCHmka2jeMJX2RbYciNzaESkhF-HaL_Y_8Wu3V44P9kVLMvWP50IrMq9K3IQJyCygdCL9PdGLoGr2jFEcJOjnytzYn9vlljlYs9LK4WOy01i1E-CMjOg3Wf52pQnj67SVlZ3DvQYabved5bLCCmNTgIX-7XNYwhwfwcPeGj8X6zj_fYrj6pLrg7men9nt3n99_9CKulOAaTPcHzpOdM8MIBjizuPPfChVOMQRrk66pGxjwpcZ4RT4D7VmjWkNBh9ipSmnVwXUSKU90R5OdH5EJhQHl75rgyPqmFzdN0GC18czbMHdDtUoQq_3iS_rdGw/p.jpeg?fv_content=true&size_mode=5",
+
+    date: new Date(Date.now()),
+  },
+  {
+    type: "interior",
+    description: " Bathroom",
+    image:
+      "https://uc5fca9e2cf50ac6de7b5381156a.previews.dropboxusercontent.com/p/thumb/ABH0abaxP4EGrFh9El5VgqsQNsQ70xhGF0GWdzTSOXlIRCatbvTlXOVUQw2QtOxBy2QarzLXxzqAvYlOj_dfRVeCui19WIejoQdAmRiEA0B-U9BFFfsA06dlKg2Vwt4B7YKHvp21VT_sORhQDf3bBDXuliu-6jMofntxTBz50wb3fmfo-bL_rbngjzTxaTmsOC1N6fUh4KbS3M6VuwhvyqZDqfCwynt6G2dxhf613Tb5B6a1OokicyZX9XM7IJX_0eLgB41g4lY8kTpfYVHmEz3eYKrZDEzz7oki5tzuD4BImQivPLe5Y6-Wan7eH6Fm0UI826doFnFM4gkGqAbU3tS9TIgyALF_XuSqjNe_LPvbcw/p.jpeg?fv_content=true&size_mode=5",
 
     date: new Date(Date.now()),
   },
