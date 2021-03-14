@@ -33,7 +33,7 @@ function loadImages() {
 }
 
 function bucketApi() {
-  etch("/api/images")
+  fetch("/api/images")
     .then((res) => res.json())
     .then((data) => console.log(data));
 }
@@ -65,8 +65,13 @@ function createCard(image) {
     "src",
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mOMrgcAATsA3BT31OAAAAAASUVORK5CYII="
   );
+  img.setAttribute(
+    "src",
+    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPc9OX/TwAIpQOgE36vNQAAAABJRU5ErkJggg=="
+  );
   img.setAttribute("data-src", image.image);
   img.setAttribute("alt", image.description);
+  img.classList.add("lazy");
 
   // const cardBody = createEl("div", "card-body");
   // const ratingFormContainer = createEl(
