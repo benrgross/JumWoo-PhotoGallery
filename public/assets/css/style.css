@@ -19,12 +19,6 @@ body,
   color: #f57f16;
 }
 
-label[for*="star"] {
-  cursor: pointer;
-  margin: 0;
-  padding: 4px;
-}
-
 .card__image-container {
   width: 100%;
   height: auto;
@@ -68,4 +62,14 @@ button.expand {
 
 #logo {
   height: 75px;
+}
+
+.lazy-image:hover {
+  cursor: pointer;
+}
+
+#zoom {
+  height: 600x;
+  width: 600px;
+  margin-top: 50px;
 }

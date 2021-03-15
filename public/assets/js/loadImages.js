@@ -54,7 +54,7 @@ function createCards(data) {
 function createCard(image) {
   const card = createEl("div", "card");
   // const imageContainer = createEl("div", "container");
-  const img = createEl("img", "img-thumbnail lazy-image image--cover ");
+  const img = createEl("img", " img-thumbnail lazy-image image--cover ");
   img.setAttribute(
     "src",
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mOMrgcAATsA3BT31OAAAAAASUVORK5CYII="
@@ -62,6 +62,7 @@ function createCard(image) {
   img.setAttribute("data-src", image.image);
 
   img.setAttribute("alt", image.description);
+  img.setAttribute("data-id", image._id);
 
   card.appendChild(img);
 
