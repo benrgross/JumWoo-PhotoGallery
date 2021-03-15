@@ -9,109 +9,95 @@ const imageSeed = [
   {
     type: "exterior",
     description: "LA Terrace",
-    image:
-      "https://ucbf5458278fdb2cd879b0785a36.previews.dropboxusercontent.com/p/thumb/ABH2FCS_9Wp_NT7X6WVBYkWYr-MSNVHBZHhvI8lqyXci58oPL-yXfbDrFfpEKrI0Bv7xZG5SRI4BkHCuMtvGbnfOk0BPemuHkdvzkQv4kwwv0Xpe9T-cTipWPmmGyYLz_kAippEHdZgdnqIXVHbCP-Rh41BJH6COXRLHcakV1gn1EK9oCmGBB1mMDTFm_Ri-KXKa1M5SmrcL8rnFiJUKQHOzAdn6BRhVmjFWpqlofHjDmOnsI7OpDgdFkUeYqLUJg78MlgcxMbiTuzLmgC41iTs86JV9RPSZwcAX_btIqv5HKB1-TCCzqkki3M2RUqLCJr-GzumVX4WhBgKtX5QXoJqfAYLBsUL9rUukmGZE1MnKAA/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work1",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image:
-      "https://uc2b06552692b32cd55e6cade92a.previews.dropboxusercontent.com/p/thumb/ABGCejrA0e0fuAafUmocwE4L3PsKev8GtSqmu-Lh35zdr0IplrxtXBA8L_1i8s8RRZUb4Kjz7Pf9GgL9Z4eRjEN3b6c2Rp-MMdKRazlkMDd68uPRHSbY6dZoip7auDQOZJa4OrHVry-IdOu8PyPyC-ENZQMvxW_QM8jJHH39cp4svafbBqhtk6CKlwAbA_fw0G2sMsUwEZTF035HYrZoGf-3TzDQtT0CdQazgotbFqbZfh-LlYfSLKWKshBpAU8greKoaF0SceVG934qol-OmSbGUvBBSwaoQ57uzccxW8o3PRM9F3VRtTGYAXdi0EykGQWCIW_6cydP24ZTxjSv4mJahEnczw2Gs8ydgD12P8epzQ/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work2",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image:
-      "https://uc9bd44381764248557f97d352ea.previews.dropboxusercontent.com/p/thumb/ABFOC8ZxRRjp47ps0stavy7hl9kBph5KVm_LPkDu6fy5CLafG0cdghT5Uwi4uGZiL2r4NwrR2STjL0K7LbTing8V0HpDuxxw3C943gq-Ht3AXAI5NURMtHUOK9BgLlvJUoF5J1HGPezl45f-fMABEWR9bO6mxFJvT9DW5SlSYecPQ5PUKRIn25wBei4GjUMEaYni0yuKo7y536K8leSYlb-jafg6jb8gf4e7mWvXHPKBfzpmIXH87Fk-Tbk8_M6ZU1jq4s43pasia8fiU39s2PVmaIBIT8Y9KDXZ4lMqyHYLnD9yZa-zYOeahSxNvjJUpDlHvTgGzz-DjfBTC7t-wPvo_NSeAy18ueWRs1LcD8WQfPg6m5F1iEmgttuFTGkAKlk/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work3",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Store Exterior",
-    image:
-      "https://uc5e728bf0eb571ffea5aba30cae.previews.dropboxusercontent.com/p/thumb/ABEnAuVpSrH9MlAv_I5VdLMuk_S3TyYA4GaCwjDu1rr3yksGVJhfI74q1g8iB_ULke5JLrkGILZrxJDZIUNvvgYE-qdJSBiwHRK12CgNoW3uC8YPEQeASMhtPAo7NaOC4h9094eVfjD7VCOW0srFL0njdj8kh68qVS9nThNaXRjfrc-PwzGzZYPztD1nsLaXFYdpqJhqfSmKlif1hovOD7OBE4SEJGR1rN4NQaNj0rqjmpztW6NjFdwz4oHTYCMDEXCTANBOa-IHdhmB_PWxALCvU5Cd8uW-lwDnRNcpk_4XDQYOLfSL0XNlFdzd8FbkErHRxIjcZTbIfqAJNRTX2yyWal92bTSgFaFgPUqTI0Ialg/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work4",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Store Exterior",
-    image:
-      "https://uca06f6a73fcf9f64f0745a6a8a2.previews.dropboxusercontent.com/p/thumb/ABFbqdGlgpsC4xKsTuCGyRcqja3_7te32xN4L_uAtuRlssBIdzKH7EI7PJkPE8Gdm935WqV48JNl7bQxpMEnIo8FTWGoYN6IJNBc2UzEniZFXH9utfORyqEPZhQ0DvtLDvBuAcv16mgS1chiaFLGSbmcOg5vtTfZOpU1HqEIZd2HShfU7SS23nxBbED4q0j2Dybd6XHRwCa5SkYIkwT51XeMi97QnpFCjmCcDVPux4zx1UNGjhV8Pz1Fhuq0eT6LmbxU1v1ax6V0CZqdTd1mgbvUGEpwExtSVvY0PYFHNboAJrqia7bC90NbV5NIS-C847HA4PeIcwqDEvtYgqHjkfzTA8a__jjYLy3xSTcbRiE8UA/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work5",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image:
-      "https://uc2730a6064335f5dc5b65ea8be0.previews.dropboxusercontent.com/p/thumb/ABEa5Pe8uLLyUSlOGtvpXQlR5YrFpCFL25oYwCli3dbtZJBItcZ9q61eDBXTw4PJ72MvnS6yGEYzVjNsM4BQ5KR-Fjs97w0T15Fa0LMN0oaf9sUguxrHlLEDLgEiY3tqPq8XlCWSaz56EXtskdh6xZiycmh3wtFkqTtk7XER33kqDnzgI3ovM9mIQ6uttd_9iL7iS-muZ4KVsyCw3jF7ZzDO9fA8rqsjfogFIV3xZZsfj2z2P2YkdNEJE0XEEX8XGCG2vStcvs5Gw55-HTE7uv09b7LLiIJQjPMsv5w3bjlXcvE97Sq7mssu2jW4YlxTOJ1YuxcdBY0rN_isPd-O0hMXy3wFHV-slPhnmZoug9PIQA/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work6",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image:
-      "https://uc2730a6064335f5dc5b65ea8be0.previews.dropboxusercontent.com/p/thumb/ABEa5Pe8uLLyUSlOGtvpXQlR5YrFpCFL25oYwCli3dbtZJBItcZ9q61eDBXTw4PJ72MvnS6yGEYzVjNsM4BQ5KR-Fjs97w0T15Fa0LMN0oaf9sUguxrHlLEDLgEiY3tqPq8XlCWSaz56EXtskdh6xZiycmh3wtFkqTtk7XER33kqDnzgI3ovM9mIQ6uttd_9iL7iS-muZ4KVsyCw3jF7ZzDO9fA8rqsjfogFIV3xZZsfj2z2P2YkdNEJE0XEEX8XGCG2vStcvs5Gw55-HTE7uv09b7LLiIJQjPMsv5w3bjlXcvE97Sq7mssu2jW4YlxTOJ1YuxcdBY0rN_isPd-O0hMXy3wFHV-slPhnmZoug9PIQA/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work6",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image:
-      "https://uc654f49888998b10461510818ae.previews.dropboxusercontent.com/p/thumb/ABEEkPAT7sbWtGUCCkEl-3pogHJJjUrmUsGupXwCwt-AKU9VEqlJvPziITPGbR2ykM8vgVqYRdTJ4k_1bdZv78toWZPEG_UrAvYCX-0Q9Uu-ZfM3y4s3ibHeyl7UKN6zilFLzwd6c3JRtsXfGjJ986ndOI-2RYeXPJbB07PNFzaqIQRZp9Q4zdkXrU-8eQeZC_s3FDWV1kht_aPLNg8i9NSg-d225caYXjSbgI1m-KlqVYJVZtyuwFGPbUHEjmLNoRKYEHnw-DZ-eSJeworHrnA4yI3J8r0Ihzs0X0guiKd4XWZM4B16p8XHbl2rNEeo6uaFyy4bp1YIDj4Y3a2UUdYc0Q0WfjXiiDNfEqNY9qQ6HQ/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work7",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Modern Gate",
-    image:
-      "https://uc48dc6d3f4de2d703046547af7b.previews.dropboxusercontent.com/p/thumb/ABG_KQWIuArac0JwtWlapea03y16ahHpHpiR9YgBEu1UOJ9fLubFNf1lDIx6x5L8uAaj8o9tBs2NPlCQvbyjhIdLdToNYqgpg1_gyYHEWmaFJHduHr3_WU0oulLFfuJhCAj8VwsQwMjOQ30dqn3EkNV57KUOTrpOTDy6Bd4No3G2GV1siqyRR6PTg_V8vy7X3X_z74tRLTvt7nbNJWALOA0iCea5fJw--Yi60DJvuqQiMxRnhjUb-D5jkBRUXKeGQ7r7ek8bzIPCBtSBQZwhSIIgVPDPZcgGI0I-lkpSjpwBarwwyo095U4Tp5HpwR3c3qLGm8TZuJGp_hxnx7rWzcObD_QhLejLg7NRaoouOtiRPg/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work8",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Public Structure",
-    image:
-      "https://uc908605787f786b2ffab73471e1.previews.dropboxusercontent.com/p/thumb/ABHWWR-uuxok59wyfHVWPpOJkqQ1KmgGrthVx-pgP9U3NBXv6rd-doqMnRLv61hpHNfPMjcwDdl_RWIjD_QYKjLOktAg7mM0km6DCz5NjXvUF27rDuwK8JMeekC5uocRZSgxQCjcQc5wM2QO0BI7c3EaartKJ1Sb2Q0dU304ekDssfU-Bz3lQJ0-J_QXdkRRFnNNjse3DOw-EYXa9MhAptUaAIQ9TUC25ez1_V7OjNDSGSJM4YL2kBo35Bvb8j4o3Ec1TH0laOVdgN6sf399jih-95fcW_hzyB_7KFskGfslj3zbPvpK5yaeBcwnxyNaGJVcaHJwHJru7u_mhS8dWsyN7OaLBhfyB9f8xZ2WdW8c5g/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work9",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Building Facade - Ground Level",
-    image:
-      "https://uc94355ca3bdd7dd7fba7b70584f.previews.dropboxusercontent.com/p/thumb/ABFFXc7V-_aDi8m6KS5O2VbLFJNz3E8P3KlYbpBwGkJmE1g3wINPAji6T1iVuSnShMf_AdY4UkLqfLe3g0MIlhEFHK7_xr_gPpo7LswIiNimspJHBwAbfjDaRD8sjih6BxJ62AzNiK1QwHKuDWmOIz1Jbu492Y7V6c1ovk8bi_W8L7-QQIkya30HUxofqM7rOC5eRyl0R-vuZOzQMPEaQfp37Uw9cvQeEMxa_We1Bf_XkUPGyTF9DLpftf21g7LMYPPCPeB-zX2gf0K-CA2gtCfp8ft771k_SxNtvNNkN02dZ3l_OpmPDp4fQnj_0UzwMI-ase2zhs6_Tlh9Jy1Va-2gDx7qs1FVmqlD0Q4uIGu3tg/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work10",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Bridge From Bellow",
-    image:
-      "https://ucb212d08fe0ea4e35ee35528e61.previews.dropboxusercontent.com/p/thumb/ABGS_Q3csnijpcyz9qJKRE_q4yN5-PjN96DHgrh6ZX4-EjNGVuIBFMcINS1_K2tY-ldupJaQDSKGJDD8TlFpRR4dl7ioQaaGDbFYYUU4ukaznOk6M1SPlZI34uj_DtcIu19rzNJnjKCinikm3TDmbJ3VI_RdpLRwgpxirFBheccxEO7q8YW-hKx96xlLTqwAjS-nceqdY3cNTRPSzmPsJVRmBIoridvIv-OgnC2b4xmAdppSn5yFYOWdTZOr89Apa2Lzpbh9gj2LVzMTimPVcjGwygOlF4vHk0kQxUZnjq3D-Xc9PlAkj15xMSac3_6NVukXECpUKr78Ydl0Ecx0djn_J7bY6uI0a-sTlyUYBD1I9g/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work11",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Modern Courtyard",
-    image:
-      "https://ucb212d08fe0ea4e35ee35528e61.previews.dropboxusercontent.com/p/thumb/ABGS_Q3csnijpcyz9qJKRE_q4yN5-PjN96DHgrh6ZX4-EjNGVuIBFMcINS1_K2tY-ldupJaQDSKGJDD8TlFpRR4dl7ioQaaGDbFYYUU4ukaznOk6M1SPlZI34uj_DtcIu19rzNJnjKCinikm3TDmbJ3VI_RdpLRwgpxirFBheccxEO7q8YW-hKx96xlLTqwAjS-nceqdY3cNTRPSzmPsJVRmBIoridvIv-OgnC2b4xmAdppSn5yFYOWdTZOr89Apa2Lzpbh9gj2LVzMTimPVcjGwygOlF4vHk0kQxUZnjq3D-Xc9PlAkj15xMSac3_6NVukXECpUKr78Ydl0Ecx0djn_J7bY6uI0a-sTlyUYBD1I9g/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work12",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Building Facade - Ground Level",
-    image:
-      "https://uc6f4127fe99bc14925bad3cd9c8.previews.dropboxusercontent.com/p/thumb/ABHAnY7yKz1ycHEy_57ZKvsbcf0s6hVj52S1tOMlXQNA5nlVUugmlkgIFEzSGqj3BlstAn0PHbcLCW7U53x0-fljgu1SbgjNgmy14k0_xG2vcIwLU5sDTC66CfLQtgadR3vtuWvqxlAvb32hVzCqlkP7vLsVz_xDL4sg5rUDpI7lUHB4g1oa51Ioeq2fdSmWDqM_OqKIT2J_evIJCeWYfRVeqFcaEcwzw8sh2Dau_LhyCoA-D7Alb4w1BXYrIHqen8WqEM7iPmRVYEN5g-xNa-XrNo-IlJtZu6IZdr4Qnv0FFTwkSsBOggx2aoLBHsVES2BnlpA0TeICkx7q1KVEaJYIknaTotf3YDONeCOLwBIImw/p.jpeg?fv_content=true&size_mode=5",
+    image: "/assets/images/JUMWOO_Work13",
 
     date: new Date(Date.now()),
   },
