@@ -66,7 +66,7 @@ function createCard(image) {
   img.setAttribute("data-src", image.image);
 
   img.setAttribute("alt", image.description);
-  img.classList.add("lazy");
+
   card.appendChild(img);
 
   return card;
