@@ -25,7 +25,7 @@ const zoomImage = (image) => {
 };
 
 $("#zoom").on("click", $(".zoomed"), function () {
-  $("#zoom").toggle();
+  $("#zoom").toggle(500);
   $("#zoom").empty();
   $("#gallery").toggle();
 });
