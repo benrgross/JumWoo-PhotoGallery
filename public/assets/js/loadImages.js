@@ -59,10 +59,6 @@ function createCard(image) {
     "src",
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mOMrgcAATsA3BT31OAAAAAASUVORK5CYII="
   );
-  img.setAttribute(
-    "src",
-    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPc9OX/TwAIpQOgE36vNQAAAABJRU5ErkJggg=="
-  );
   img.setAttribute("data-src", image.image);
 
   img.setAttribute("alt", image.description);
