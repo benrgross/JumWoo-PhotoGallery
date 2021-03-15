@@ -9,123 +9,123 @@ const imageSeed = [
   {
     type: "exterior",
     description: "LA Terrace",
-    image: "/assets/images/JUMWOO_Work1.jpg",
+    image: "/public/images/JUMWOO_Work1.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image: "/assets/images/JUMWOO_Work2.jpg",
+    image: "/public/images/JUMWOO_Work2.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image: "/assets/images/JUMWOO_Work3.jpg",
+    image: "/public/images/JUMWOO_Work3.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Store Exterior",
-    image: "/assets/images/JUMWOO_Work4.jpg",
+    image: "/public/images/JUMWOO_Work4.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Store Exterior",
-    image: "/assets/images/JUMWOO_Work5.jpg",
+    image: "/public/images/JUMWOO_Work5.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image: "/assets/images/JUMWOO_Work6.jpg",
+    image: "/public/images/JUMWOO_Work6.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image: "/assets/images/JUMWOO_Work7.jpg",
+    image: "/public/images/JUMWOO_Work7.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Store Interior",
-    image: "/assets/images/JUMWOO_Work8.jpg",
+    image: "/public/images/JUMWOO_Work8.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Modern Gate",
-    image: "/assets/images/JUMWOO_Work9.jpg",
+    image: "/public/images/JUMWOO_Work9.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Public Structure",
-    image: "/assets/images/JUMWOO_Work10.jpg",
+    image: "/public/images/JUMWOO_Work10.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Building Facade - Ground Level",
-    image: "/assets/images/JUMWOO_WORK11.jpg",
+    image: "/public/images/JUMWOO_WORK11.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Bridge From Bellow",
-    image: "/assets/images/JUMWOO_Work12.jpg",
+    image: "/public/images/JUMWOO_Work12.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Modern Courtyard",
-    image: "/assets/images/JUMWOO_Work13.jpg",
+    image: "/public/images/JUMWOO_Work13.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Building Facade - Ground Level",
-    image: "/assets/images/JUMWOO_Work14.jpg",
+    image: "/public/images/JUMWOO_Work14.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Modern Skywalk",
-    image: "/assets/images/JUMWOO_WORK15.jpg",
+    image: "/public/images/JUMWOO_WORK15.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Facades Perspective",
-    image: "/assets/images/JUMWOO_WORK16.jpg",
+    image: "/public/images/JUMWOO_WORK16.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Under A Pier",
-    image: "/assets/images/JUMWOO_WORK17.jpg",
+    image: "/public/images/JUMWOO_WORK17.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "landscape",
     description: "Facades Perspective",
-    image: "/assets/images/JUMWOO_WORK18.jpg",
+    image: "/public/images/JUMWOO_WORK18.jpg",
 
     date: new Date(Date.now()),
   },
@@ -133,364 +133,364 @@ const imageSeed = [
     type: "interior",
     description: "Living Room",
 
-    image: "/assets/images/JUMWOO_WORK19.jpg",
+    image: "/public/images/JUMWOO_WORK19.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Dining Room to Ourdoor Patio",
-    image: "/assets/images/JUMWOO_WORK20.jpg",
+    image: "/public/images/JUMWOO_WORK20.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Master Bedroom",
-    image: "/assets/images/JUMWOO_WORK21.jpg",
+    image: "/public/images/JUMWOO_WORK21.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "San Diego Home",
-    image: "/assets/images/JUMWOO_WORK22.jpg",
+    image: "/public/images/JUMWOO_WORK22.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "San Diego Home",
-    image: "/assets/images/JUMWOO_WORK23.jpg",
+    image: "/public/images/JUMWOO_WORK23.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "San Diego Home",
-    image: "/assets/images/JUMWOO_WORK24.jpg",
+    image: "/public/images/JUMWOO_WORK24.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Kitchen",
-    image: "/assets/images/JUMWOO_WORK25.jpg",
+    image: "/public/images/JUMWOO_WORK25.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Condo",
-    image: "/assets/images/JUMWOO_WORK26.jpg",
+    image: "/public/images/JUMWOO_WORK26.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Condo",
-    image: "/assets/images/JUMWOO_WORK27.jpg",
+    image: "/public/images/JUMWOO_WORK27.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Condo",
-    image: "/assets/images/JUMWOO_WORK28.jpg",
+    image: "/public/images/JUMWOO_WORK28.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Bathroom",
-    image: "/assets/images/JUMWOO_WORK29.jpg",
+    image: "/public/images/JUMWOO_WORK29.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Kitchen",
-    image: "/assets/images/JUMWOO_WORK30.jpg",
+    image: "/public/images/JUMWOO_WORK30.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Highrise Lobby",
-    image: "/assets/images/JUMWOO_WORK31.jpg",
+    image: "/public/images/JUMWOO_WORK31.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Condo Bedroom",
-    image: "/assets/images/JUMWOO_WORK32.jpg",
+    image: "/public/images/JUMWOO_WORK32.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Condo Bedroom",
-    image: "/assets/images/JUMWOO_WORK33.jpg",
+    image: "/public/images/JUMWOO_WORK33.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Condo Detail",
-    image: "/assets/images/JUMWOO_WORK34.jpg",
+    image: "/public/images/JUMWOO_WORK34.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "San Diego Condo Detail",
-    image: "/assets/images/JUMWOO_WORK35.jpg",
+    image: "/public/images/JUMWOO_WORK35.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "San Diego Complex Facade",
-    image: "/assets/images/JUMWOO_WORK36.jpg",
+    image: "/public/images/JUMWOO_WORK36.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Waterfront Cafe",
-    image: "/assets/images/JUMWOO_WORK37.jpg",
+    image: "/public/images/JUMWOO_WORK37.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Bedroom",
-    image: "/assets/images/JUMWOO_WORK38.jpg",
+    image: "/public/images/JUMWOO_WORK38.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Kithcen Into Bedroom",
-    image: "/assets/images/JUMWOO_WORK39.jpg",
+    image: "/public/images/JUMWOO_WORK39.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Living Room",
-    image: "/assets/images/JUMWOO_WORK40.jpg",
+    image: "/public/images/JUMWOO_WORK40.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Variety Building From Above",
-    image: "/assets/images/JUMWOO_WORK41.jpg",
+    image: "/public/images/JUMWOO_WORK41.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Building Facade From Below",
-    image: "/assets/images/JUMWOO_WORK42.jpg",
+    image: "/public/images/JUMWOO_WORK42.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "California Strip Mall",
-    image: "/assets/images/JUMWOO_WORK43.jpg",
+    image: "/public/images/JUMWOO_WORK43.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "California Strip Mall From Above",
-    image: "/assets/images/JUMWOO_WORK45.jpg",
+    image: "/public/images/JUMWOO_WORK45.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "California Strip Mall From Above",
-    image: "/assets/images/JUMWOO_WORK46.jpg",
+    image: "/public/images/JUMWOO_WORK46.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "California Strip Mall",
-    image: "/assets/images/JUMWOO_WORK47.jpg",
+    image: "/public/images/JUMWOO_WORK47.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Building and Parking Lot",
-    image: "/assets/images/JUMWOO_WORK48.jpg",
+    image: "/public/images/JUMWOO_WORK48.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Building For Sale",
-    image: "/assets/images/JUMWOO_WORK49.jpg",
+    image: "/public/images/JUMWOO_WORK49.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Workspace Available",
-    image: "/assets/images/JUMWOO_WORK50.jpg",
+    image: "/public/images/JUMWOO_WORK50.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Brick Facade",
-    image: "/assets/images/JUMWOO_WORK51.jpg",
+    image: "/public/images/JUMWOO_WORK51.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Brick Building From Above",
-    image: "/assets/images/JUMWOO_WORK52.jpg",
+    image: "/public/images/JUMWOO_WORK52.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Brick Building Birds",
-    image: "/assets/images/JUMWOO_WORK53.jpg",
+    image: "/public/images/JUMWOO_WORK53.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Brick Building Landscape",
-    image: "/assets/images/JUMWOO_WORK54.jpg",
+    image: "/public/images/JUMWOO_WORK54.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Commercial Building From Above",
-    image: "/assets/images/JUMWOO_WORK56.jpg",
+    image: "/public/images/JUMWOO_WORK56.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Commercial Building Bird's Eye",
-    image: "/assets/images/JUMWOO_WORK57.jpg",
+    image: "/public/images/JUMWOO_WORK57.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Brick Building Landscape",
-    image: "/assets/images/JUMWOO_WORK58.jpg",
+    image: "/public/images/JUMWOO_WORK58.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Strip Mall Above",
-    image: "/assets/images/JUMWOO_WORK59.jpg",
+    image: "/public/images/JUMWOO_WORK59.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Strip Mall Rooftop",
-    image: "/assets/images/JUMWOO_WORK60.jpg",
+    image: "/public/images/JUMWOO_WORK60.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Downtown LA Building Above Profile",
-    image: "/assets/images/JUMWOO_WORK61.jpg",
+    image: "/public/images/JUMWOO_WORK61.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Downtown LA Building Birds Eye",
-    image: "/assets/images/JUMWOO_WORK62.jpg",
+    image: "/public/images/JUMWOO_WORK62.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Kitchen",
-    image: "/assets/images/JUMWOO_WORK64.jpg",
+    image: "/public/images/JUMWOO_WORK64.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Bathroom",
-    image: "/assets/images/JUMWOO_WORK65.jpg",
+    image: "/public/images/JUMWOO_WORK65.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Apartment Complex Terrace View",
-    image: "/assets/images/JUMWOO_WORK66.jpg",
+    image: "/public/images/JUMWOO_WORK66.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Empty Apartment Room",
-    image: "/assets/images/JUMWOO_WORK67.jpg",
+    image: "/public/images/JUMWOO_WORK67.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Condo Swimming Pool",
-    image: "/assets/images/JUMWOO_WORK69.jpg",
+    image: "/public/images/JUMWOO_WORK69.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "exterior",
     description: "Private Swimming Pool",
-    image: "/assets/images/JUMWOO_WORK70.jpg",
+    image: "/public/images/JUMWOO_WORK70.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Sunny Kitchen",
-    image: "/assets/images/JUMWOO_WORK71.jpg",
+    image: "/public/images/JUMWOO_WORK71.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Living Room into Kitchen",
-    image: "/assets/images/JUMWOO_WORK72.jpg",
+    image: "/public/images/JUMWOO_WORK72.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: "Children's Bedroom",
-    image: "/assets/images/JUMWOO_WORK73.jpg",
+    image: "/public/images/JUMWOO_WORK73.jpg",
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: " Bedroom",
-    image: "/assets/images/JUMWOO_WORK74.jpg",
+    image: "/public/images/JUMWOO_WORK74.jpg",
 
     date: new Date(Date.now()),
   },
   {
     type: "interior",
     description: " Bathroom",
-    image: "/assets/images/JUMWOO_WORK75.jpg",
+    image: "/public/images/JUMWOO_WORK75.jpg",
 
     date: new Date(Date.now()),
   },
