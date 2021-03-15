@@ -6,288 +6,288 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/jumwoo", {
 });
 
 const imageSeed = [
-  {
-    type: "exterior",
-    description: "LA Terrace",
-    image: "/images/JUMWOO_Work1.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Store Interior",
-    image: "/images/JUMWOO_Work2.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Store Interior",
-    image: "/images/JUMWOO_Work3.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Store Exterior",
-    image: "/images/JUMWOO_Work4.jpg",
+  // {
+  //   type: "exterior",
+  //   description: "LA Terrace",
+  //   image: "/images/JUMWOO_Work1.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Store Interior",
+  //   image: "/images/JUMWOO_Work2.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Store Interior",
+  //   image: "/images/JUMWOO_Work3.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Store Exterior",
+  //   image: "/images/JUMWOO_Work4.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Store Exterior",
-    image: "/images/JUMWOO_Work5.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Store Exterior",
+  //   image: "/images/JUMWOO_Work5.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Store Interior",
-    image: "/images/JUMWOO_Work6.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Store Interior",
+  //   image: "/images/JUMWOO_Work6.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Store Interior",
-    image: "/images/JUMWOO_Work7.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Store Interior",
+  //   image: "/images/JUMWOO_Work7.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Store Interior",
-    image: "/images/JUMWOO_Work8.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Store Interior",
+  //   image: "/images/JUMWOO_Work8.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Modern Gate",
-    image: "/images/JUMWOO_Work9.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Modern Gate",
+  //   image: "/images/JUMWOO_Work9.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Public Structure",
-    image: "/images/JUMWOO_Work10.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Public Structure",
+  //   image: "/images/JUMWOO_Work10.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Building Facade - Ground Level",
-    image: "/images/JUMWOO_WORK11.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Building Facade - Ground Level",
+  //   image: "/images/JUMWOO_WORK11.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Bridge From Bellow",
-    image: "/images/JUMWOO_Work12.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Bridge From Bellow",
+  //   image: "/images/JUMWOO_Work12.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Modern Courtyard",
-    image: "/images/JUMWOO_Work13.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Modern Courtyard",
+  //   image: "/images/JUMWOO_Work13.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Building Facade - Ground Level",
-    image: "/images/JUMWOO_Work14.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Building Facade - Ground Level",
+  //   image: "/images/JUMWOO_Work14.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Modern Skywalk",
-    image: "/images/JUMWOO_WORK15.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Modern Skywalk",
+  //   image: "/images/JUMWOO_WORK15.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Facades Perspective",
-    image: "/images/JUMWOO_WORK16.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Facades Perspective",
+  //   image: "/images/JUMWOO_WORK16.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Under A Pier",
-    image: "/images/JUMWOO_WORK17.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Under A Pier",
+  //   image: "/images/JUMWOO_WORK17.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "landscape",
-    description: "Facades Perspective",
-    image: "/images/JUMWOO_WORK18.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "landscape",
+  //   description: "Facades Perspective",
+  //   image: "/images/JUMWOO_WORK18.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Living Room",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Living Room",
 
-    image: "/images/JUMWOO_WORK19.jpg",
+  //   image: "/images/JUMWOO_WORK19.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Dining Room to Ourdoor Patio",
-    image: "/images/JUMWOO_WORK20.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Dining Room to Ourdoor Patio",
+  //   image: "/images/JUMWOO_WORK20.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Master Bedroom",
-    image: "/images/JUMWOO_WORK21.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Master Bedroom",
+  //   image: "/images/JUMWOO_WORK21.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "San Diego Home",
-    image: "/images/JUMWOO_WORK22.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "San Diego Home",
-    image: "/images/JUMWOO_WORK23.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "San Diego Home",
-    image: "/images/JUMWOO_WORK24.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "San Diego Home",
+  //   image: "/images/JUMWOO_WORK22.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "San Diego Home",
+  //   image: "/images/JUMWOO_WORK23.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "San Diego Home",
+  //   image: "/images/JUMWOO_WORK24.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Kitchen",
-    image: "/images/JUMWOO_WORK25.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Kitchen",
+  //   image: "/images/JUMWOO_WORK25.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Condo",
-    image: "/images/JUMWOO_WORK26.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Condo",
+  //   image: "/images/JUMWOO_WORK26.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Condo",
-    image: "/images/JUMWOO_WORK27.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Condo",
+  //   image: "/images/JUMWOO_WORK27.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Condo",
-    image: "/images/JUMWOO_WORK28.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Condo",
+  //   image: "/images/JUMWOO_WORK28.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Bathroom",
-    image: "/images/JUMWOO_WORK29.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Bathroom",
+  //   image: "/images/JUMWOO_WORK29.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Kitchen",
-    image: "/images/JUMWOO_WORK30.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Kitchen",
+  //   image: "/images/JUMWOO_WORK30.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Highrise Lobby",
-    image: "/images/JUMWOO_WORK31.jpg",
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Condo Bedroom",
-    image: "/images/JUMWOO_WORK32.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Highrise Lobby",
+  //   image: "/images/JUMWOO_WORK31.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Condo Bedroom",
+  //   image: "/images/JUMWOO_WORK32.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Condo Bedroom",
-    image: "/images/JUMWOO_WORK33.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Condo Bedroom",
+  //   image: "/images/JUMWOO_WORK33.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Condo Detail",
-    image: "/images/JUMWOO_WORK34.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Condo Detail",
+  //   image: "/images/JUMWOO_WORK34.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "San Diego Condo Detail",
-    image: "/images/JUMWOO_WORK35.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "San Diego Condo Detail",
+  //   image: "/images/JUMWOO_WORK35.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "San Diego Complex Facade",
-    image: "/images/JUMWOO_WORK36.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "San Diego Complex Facade",
+  //   image: "/images/JUMWOO_WORK36.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Waterfront Cafe",
-    image: "/images/JUMWOO_WORK37.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Waterfront Cafe",
+  //   image: "/images/JUMWOO_WORK37.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Bedroom",
-    image: "/images/JUMWOO_WORK38.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Bedroom",
+  //   image: "/images/JUMWOO_WORK38.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Kithcen Into Bedroom",
-    image: "/images/JUMWOO_WORK39.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Kithcen Into Bedroom",
+  //   image: "/images/JUMWOO_WORK39.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "interior",
-    description: "Living Room",
-    image: "/images/JUMWOO_WORK40.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "interior",
+  //   description: "Living Room",
+  //   image: "/images/JUMWOO_WORK40.jpg",
 
-    date: new Date(Date.now()),
-  },
-  {
-    type: "exterior",
-    description: "Variety Building From Above",
-    image: "/images/JUMWOO_WORK41.jpg",
+  //   date: new Date(Date.now()),
+  // },
+  // {
+  //   type: "exterior",
+  //   description: "Variety Building From Above",
+  //   image: "/images/JUMWOO_WORK41.jpg",
 
-    date: new Date(Date.now()),
-  },
+  //   date: new Date(Date.now()),
+  // },
   {
     type: "exterior",
     description: "Building Facade From Below",
